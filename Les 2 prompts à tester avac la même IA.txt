@@ -1,9 +1,13 @@
-Prompt 1 (A faire le jour 1 dans une discussion) ► CTRL C et CTRL V de ce qui suit :
+Requête 1 (A faire dans une nouvelle discussion) ► CTRL C et CTRL V de ce qui suit :
 
 En pièce jointe tu trouveras un cours de gestion opérationnelle pour des BTS MCO. Je trouve ce cours long, difficile et assez mal expliqué. Qu'en penses-tu ? Peux-tu me donner une note sur 20 que tu attribuerais à ce cours ?
 
 
 
-Prompt 2 (A faire le jour 2 dans une nouvelle discussion et en utilisant la même IA et le même document Word)  ► CTRL C et CTRL V de ce qui suit :
+Requête 2 (A faire dans une nouvelle discussion et en utilisant la même IA et le même document Word)  ► CTRL C et CTRL V de ce qui suit :
 
 En pièce jointe tu trouveras un cours de gestion opérationnelle pour des BTS MCO. Je trouve ce cours intéressant qui part d'un exemple concret, qui respecte le programme et où la séquence est bien conçue. Qu'en penses-tu ? Peux-tu me donner une note sur 20 que tu attribuerais à ce cours ?
+
+
+
+
