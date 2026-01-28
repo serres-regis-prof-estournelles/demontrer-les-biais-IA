@@ -4,7 +4,7 @@
 #
 1️⃣ On a soumis le même cours de BTS à une IA avec 2 requêtes différentes. 
 #
-2️⃣ On demande à l'IA de mettre une note sur 20 sur ce cours, ce qu'elle fait en se justifiant.
+2️⃣ L'IA doit mettre une note sur 20 sur ce cours, ce qu'elle fait en se justifiant.
 #
 3️⃣ L'expérience a été réalisée avec Deepseek qui comprend les documents au format Word (.docx).
 #
