@@ -1,6 +1,6 @@
-# Pourquoi nos requêtes peuvent-elles influencer l'IA ?
+## Pourquoi nos requêtes peuvent-elles influencer l'IA ?
 #
-# L'expérience présentée ici est sans appel.
+## L'expérience présentée ici est sans appel.
 #
 1️⃣ On a soumis le même cours de BTS à une IA avec 2 requêtes différentes. 
 #
@@ -18,4 +18,6 @@
 #
 8️⃣ En le présentant comme "bien fait, conforme", l'IA l'a bien noté. 
 #
-# Conclusion évidente : L'IA s'est laissée influencer par le cadrage initial plutôt que d'évaluer objectivement ce qui lui était proposé.
+## Conclusion évidente : L'IA s'est laissée influencer par le cadrage initial plutôt que d'évaluer objectivement ce qui lui était proposé.
+#
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
