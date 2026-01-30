@@ -14,9 +14,9 @@
 #
 6️⃣ Ce qui devait arriver, arriva...
 #
-7️⃣ En qualifiant le cours proposé à l'IA de "compliqué, mal structuré", celle-ci l'a sévèrement évalué. 
+7️⃣ En qualifiant le cours proposé à l'IA de "compliqué, mal structuré", celle-ci l'a **sévèrement évalué**. 
 #
-8️⃣ En le présentant comme "bien fait, conforme", l'IA l'a bien noté. 
+8️⃣ En le présentant comme "bien fait, conforme", l'IA l'a **bien noté**. 
 #
 ## Conclusion évidente : L'IA s'est laissée influencer par le cadrage initial plutôt que d'évaluer objectivement ce qui lui était proposé.
 #
